@@ -11,6 +11,13 @@ API REST desenvolvida em Spring Boot que simula um sistema de mercado, permitind
 - Lombok
 - Maven
 
+### Documentação
+
+Após rodar o projeto, a documentação interativa da API está disponível em:
+
+- Swagger UI: `http://localhost:8080/swagger-ui.html`
+- OpenAPI JSON: `http://localhost:8080/v3/api-docs`
+
 ## Como rodar
 
 1. Clone o repositório:
